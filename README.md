@@ -20,18 +20,18 @@ I think is important to keep it, since it's a japanese tradition, otherwise it c
 
 ### The Fortune Level / Unsei
 The core part of the Omikuji and probably the part that will have more code. There are in total 12 Fortune Levels:
-+ Daikichi (大吉), excelente buena suerte
-+ Chūkichi (中吉), buena suerte moderada
-+ Shōkichi (小吉), pequeña buena suerte
-+ Kichi (吉), suerte
-+ Hankichi (半吉), media suerte
-+ Suekichi (末吉), suerte futura
-+ Sueshōkichi (末小吉), pequeña suerte futura
-+ Kyō (凶), mala suerte
-+ Shōkyō (小凶), pequeña mala suerte
-+ Hankyō (半凶), media mala suerte
-+ Suekyō (末凶), mala suerte futura
-+ Daikyō (大凶), gran mala suerte
++ Daikichi (大吉), excellent good luck
++ Chūkichi (中吉), moderate good luck
++ Shōkichi (小吉), small good luck
++ Kichi (吉), regular luck
++ Hankichi (半吉), medium luck
++ Suekichi (末吉), future luck
++ Sueshōkichi (末小吉), small future luck
++ Kyō (凶), bad luck
++ Shōkyō (小凶), small bad luck
++ Hankyō (半凶), medium bad luck
++ Suekyō (末凶), future bad luck
++ Daikyō (大凶), great bad luck
 
 Each one with a random generated fortune depending on the fortune received.
 
